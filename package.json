@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "typescript": "5.4.5",
-    "tsx": "4.11.2",
+    "tsx": "4.20.3",
     "@types/express": "latest",
     "@types/node": "latest",
     "@prisma/client": "^6.13.0",
