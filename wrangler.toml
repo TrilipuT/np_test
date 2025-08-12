@@ -9,7 +9,7 @@ main = "./index.ts"
 #directory = './'
 
 
-#compatibility_flags = [ "nodejs_compat" ]
+compatibility_flags = [ "nodejs_compat" ]
 
 [build]
 command = "npm ci && adminforth bundle"
