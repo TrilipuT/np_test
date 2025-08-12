@@ -31,7 +31,7 @@
     "bootstrap": "^5.3.3"
   },
   "devDependencies": {
-    "typescript": "5.4.5",
+    "typescript": "5.9.2",
     "tsx": "4.11.2",
     "@types/express": "latest",
     "@types/node": "latest",
