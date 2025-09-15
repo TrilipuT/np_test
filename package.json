@@ -26,7 +26,7 @@
     "@dotenvx/dotenvx": "^1.34.0",
     "adminforth": "latest",
     "express": "latest-4",
-    "@prisma/adapter-d1": "^6.13.0",
+    "@prisma/adapter-d1": "^6.16.1",
     "@prisma/client": "^6.13.0",
     "bootstrap": "^5.3.3"
   },
