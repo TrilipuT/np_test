@@ -36,7 +36,7 @@
     "@types/express": "latest",
     "@types/node": "latest",
     "@prisma/client": "^6.13.0",
-    "prisma": "^6.13.0",
+    "prisma": "^6.18.0",
     "wrangler": "^4.28.1"
   }
 }
